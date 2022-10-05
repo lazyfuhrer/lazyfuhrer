@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Biswarghya</h1>
 <h3 align="center">An Engineering Undergrad</h3>
 <hr>
-<img align="right" alt="GIF" src="https://64.media.tumblr.com/171c16d9fed65dac87b849ecc680bf6c/tumblr_oo06p5WE991tcg4xno1_500.gifv" width="400px" height="250" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/86489b28cf2316bb0d141809cc900f66/tenor.gif?itemid=17921729" width="400px" height="250" />
 </a>
+
 
 
 - 🔭 I’m currently working on *Full-stack Web Development*
@@ -12,6 +13,8 @@
 - 🌱 I’m currently learning *NODE JS, EXPRESS JS, MONGO DB*
 
 - 📫 How to reach me *biswasbiswarghya@gmail.com*
+
+- ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
 <br>
 <br>
