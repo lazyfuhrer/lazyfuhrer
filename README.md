@@ -3,11 +3,12 @@
 [![Linkedin: Biswarghya](https://img.shields.io/badge/-Biswarghya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biswarghya-biswas/)](https://www.linkedin.com/in/biswarghya-biswas/)
 ![GitHub followers](https://img.shields.io/github/followers/lazyfuhrer?label=Follow&style=social)
 
-### About Myself
+
 <hr>
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/86489b28cf2316bb0d141809cc900f66/tenor.gif?itemid=17921729" width="400px" height="250" />
 </a>
 
+### About Myself
 
 - 🔭 I’m currently working on *Full-stack Web Development*
 
