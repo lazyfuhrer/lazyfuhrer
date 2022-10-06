@@ -1,6 +1,6 @@
 # Hi, I'm Biswarghya 👋👨‍💻
 
-[![Linkedin: Tanya](https://img.shields.io/badge/-Biswarghya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biswarghya-biswas/)](https://www.linkedin.com/in/biswarghya-biswas/)
+[![Linkedin: Biswarghya](https://img.shields.io/badge/-Biswarghya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biswarghya-biswas/)](https://www.linkedin.com/in/biswarghya-biswas/)
 ![GitHub followers](https://img.shields.io/github/followers/lazyfuhrer?label=Follow&style=social)
 
 ### About Myself
