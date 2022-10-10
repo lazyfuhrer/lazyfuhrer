@@ -1,5 +1,7 @@
 # Hi, I'm Biswarghya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;">👨‍💻
 
+<h3>A Gen-Z developer who is obsessed with web3 technologies :P</h3>
+
 [![Linkedin: Biswarghya](https://img.shields.io/badge/-Biswarghya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biswarghya-biswas/)](https://www.linkedin.com/in/biswarghya-biswas/)
 ![GitHub followers](https://img.shields.io/github/followers/lazyfuhrer?label=Follow&style=social)
 
@@ -63,3 +65,9 @@
 
 <img align="middle" src="https://gpvc.arturio.dev/lazyfuhrer" alt="profile view" />
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=lazyfuhrer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
