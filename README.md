@@ -62,3 +62,4 @@
 </a> </p>
 
 <img align="middle" src="https://gpvc.arturio.dev/lazyfuhrer" alt="profile view" />
+<img align="right" src="https://activity-graph.herokuapp.com/graph?username=lazyfuhrer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
