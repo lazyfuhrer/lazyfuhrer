@@ -71,3 +71,13 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+## Connect with me:
+<p align="centre">
+
+<a href = "https://www.linkedin.com/in/biswarghya-biswas/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/BiswarghyaB"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>
+
+## BISWARGHYA BISWAS ~ owner
