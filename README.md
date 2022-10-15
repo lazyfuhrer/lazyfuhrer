@@ -1,6 +1,6 @@
 # Hi, I'm Biswarghya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;">👨‍💻
 
-<h3>A Gen-Z developer who is obsessed with web3 technologies :P</h3>
+<h3>A Gen-Z developer, who is obsessed with web3 technologies :P</h3>
 
 <hr>
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/86489b28cf2316bb0d141809cc900f66/tenor.gif?itemid=17921729" width="400px" height="250" />
@@ -76,4 +76,4 @@
 
 </p>
 
-## BISWARGHYA BISWAS ~ owner
+## BISWARGHYA BISWAS ~ owner of this account
