@@ -3,6 +3,7 @@
 # Hi, I'm Biswarghya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;">👨‍💻
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![profile views](https://gpvc.arturio.dev/lazyfuhrer)
 
 <h3>A Gen-Z developer, who is obsessed with web3 technologies :P</h3>
 
@@ -63,7 +64,6 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyfuhrer&theme=react&hide_langs_below=1&line_height=27" alt="lazyfuhrer's github stats" />
 </a> </p>
 
-<img align="middle" src="https://gpvc.arturio.dev/lazyfuhrer" alt="profile view" />
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=lazyfuhrer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 <div align="center">
