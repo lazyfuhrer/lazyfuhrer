@@ -14,12 +14,10 @@
 
 ### About Myself
 
-- 🔭 I’m currently working on *Full-stack Web Development
+- 🔭 I’m currently working on *Full-stack Web Development*
 - 👨‍💻Pursuing my B.Tech. in CSE from *Netaji Subhash Engineering College*
 
 - 🌱 I’m currently learning *NODE JS, EXPRESS JS, MONGO DB, SOLIDITY*
-
-- 📫 How to reach me *biswasbiswarghya@gmail.com*
 
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
@@ -81,6 +79,7 @@
 
 <a href = "https://www.linkedin.com/in/biswarghya-biswas/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/BiswarghyaB"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="mailto:biswasbiswarghya@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 
 </p>
 
