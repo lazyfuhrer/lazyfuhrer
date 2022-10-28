@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-# Hi, I'm Biswarghya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;">👨‍💻
+# Hi, I'm Biswarghya,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;">👨‍💻
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SayanDeveloper)
