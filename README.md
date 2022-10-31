@@ -62,7 +62,7 @@
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyfuhrer&theme=react&hide_langs_below=1&line_height=27" alt="lazyfuhrer's github stats" />
 </a> </p>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <img align="right" src="https://activity-graph.herokuapp.com/graph?username=lazyfuhrer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
