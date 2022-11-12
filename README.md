@@ -6,7 +6,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SayanDeveloper)
 ![profile views](https://gpvc.arturio.dev/lazyfuhrer)
 
-<h3>A Gen-Z developer, who is obsessed with web3 technologies :P</h3>
+<h3>A Gen-Z developer, who is totally obsessed with web3 technologies :P</h3>
 
 <hr>
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/86489b28cf2316bb0d141809cc900f66/tenor.gif?itemid=17921729" width="400px" height="250" />
