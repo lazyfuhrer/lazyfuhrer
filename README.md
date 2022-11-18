@@ -12,7 +12,7 @@
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/86489b28cf2316bb0d141809cc900f66/tenor.gif?itemid=17921729" width="400px" height="250" />
 </a>
 
-### About Myself
+### About Myself.
 
 - 🔭 I’m currently working on *Full-stack Web Development*
 - 👨‍💻Pursuing my B.Tech. in CSE from *Netaji Subhash Engineering College*
