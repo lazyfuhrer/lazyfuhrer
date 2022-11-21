@@ -83,6 +83,6 @@
 
 </p>
 
-**If you're looking for collaboration to any project, feel free to reach out**
+**If you're looking for collaboration to any project, feel free to reach out :)**
 
 ## BISWARGHYA BISWAS ~ owner of this account-
