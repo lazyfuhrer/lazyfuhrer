@@ -85,4 +85,4 @@
 
 **If you're looking for collaboration to any project, feel free to reach out :)**
 
-## BISWARGHYA BISWAS ~ owner of this account-
+## BISWARGHYA BISWAS ~ owner of this GitHub account-
