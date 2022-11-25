@@ -14,7 +14,7 @@
 
 ### About Myself.
 
-- 🔭 I’m currently working on *Full-stack Web Development*
+- 🔭 I’m currently working on *Full-stack Web Development & DevOps*
 - 👨‍💻Pursuing my B.Tech. in CSE from *Netaji Subhash Engineering College*
 
 - 🌱 I’m currently learning *TYPESCRIPT, NODE JS, EXPRESS JS, MONGO DB, PostgreSQL, RUST, SOLIDITY*
