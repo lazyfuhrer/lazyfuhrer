@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on *Full-stack Web Development & DevOps*
 - 👨‍💻Pursuing my B.Tech. in CSE from *Netaji Subhash Engineering College*
 
-- 🌱 I’m currently learning *TYPESCRIPT, WASM, EXPRESS JS, MONGO DB, PostgreSQL, RUST, GoLang, SOLIDITY, Vyper, Reddis*
+- 🌱 I’m currently learning *Substrate development*
 
 - ⚡ Fun fact **i am a person who will push the door even if it says "PULL". XD**
 
