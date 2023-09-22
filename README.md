@@ -4,7 +4,7 @@
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SayanDeveloper)
-![profile views](https://gpvc.arturio.dev/lazyfuhrer)
+![profile views](https://komarev.com/ghpvc/?username=lazyfuhrer)
 
 <h3>A Gen-Z developer, who is totally obsessed with web3 technologies :P</h3>
 
@@ -71,8 +71,6 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-[![@its_biswa's Holopin board](https://holopin.me/its_biswa)](https://holopin.io/@its_biswa)
 
 ## Connect with me:
 <p align="centre">
